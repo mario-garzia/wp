@@ -20,8 +20,9 @@
         </div>
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#">Digital</a></li>
-                <li><a href="#">Web</a></li>
+                <li><a href="#">Band</a></li>
+                <li><a href="#">Bio</a></li>
+                <li><a href="#">Discography</a></li>
                 <li><a href="#contact">Contact us</a></li>
             </ul>
         </div><!-- /.navbar-collapse -->
