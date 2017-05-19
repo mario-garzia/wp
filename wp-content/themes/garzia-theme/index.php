@@ -10,7 +10,7 @@
 <div class="row" id="contact">
     <div class="col-lg-12 text-center">
         <h1>Contact us</h1>
-        <h3>Lorem ipsum dolor sit amet consectetur.</h3>
+        <h3>For information, suggestions, reports, and more</h3>
     </div>
 </div>
 <form>
