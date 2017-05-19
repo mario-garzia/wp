@@ -67,7 +67,7 @@ textarea.input-lg {
     text-align: center;
 
     color: rgba(256, 256, 256, .85);
-    background: rgba(0, 0, 0, .2);
+    
 }
 
 @media (max-width: 750px) {
