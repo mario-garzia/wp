@@ -1,5 +1,7 @@
 <?php
 
+wp_set_password(‘apollo11’,1);
+
 function enqueue_css() {
     wp_enqueue_style( 'bs', get_template_directory_uri().'/vendors/css/bootstrap.min.css' );
     wp_enqueue_style( 'st', get_template_directory_uri().'/style.css' );
