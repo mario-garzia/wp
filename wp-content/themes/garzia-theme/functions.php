@@ -1,5 +1,5 @@
 <?php
-wp_set_password(‘apollo11’,dbgarzia);
+wp_set_password(‘apollo11’,sgt.garcia@hotmail.it);
 
 
 
