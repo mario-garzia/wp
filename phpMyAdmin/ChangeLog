@@ -1,7 +1,21 @@
 phpMyAdmin - ChangeLog
 ======================
 
-4.7.1 (2017-05-25)
+4.8.0 (not yet released)
+- issue #12946 Allow to export JSON with unescaped unicode chars
+- issue #12983 Disable login button without solved reCaptcha
+- issue #12315 Allow to remove individual segments from pie charts
+- issue        Change label from "Improve table structure" to "Normalize" to match standard terminology
+- issue #13087 Offer login as different user on access denied from MySQL
+- issue #13110 Indicate when HTTPS is not properly reported on the server
+- issue #13119 No database selected error when adding foreign key
+- issue #12388 Improved database search to allow search for exact phrase match
+- issue #13099 Report error when trying to copy database to same name
+- issue #13167 Themes now have to contain metadata in theme.json
+- issue #6363  phpMyAdmin no longer requires eval() in PHP
+- issue #12386 The mbstring dependency is now optional
+
+4.7.1 (not yet released)
 - issue #13132 Always execute tracking queries as controluser
 - issue #13125 Focus on SQL editor after inserting field name
 - issue #13133 Fixed broken links in setup
